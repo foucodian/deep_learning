@@ -8,6 +8,5 @@ a image recognition project.
 2. References - Complete. 
 3. Project Development - In progress. 
 4. Functional Requirements - Complete.
+5. Literature Review - In progress.
 
-Challenges: many of the algorithms used in image recognition
-appear to be plumbing techniques.
